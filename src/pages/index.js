@@ -1,3 +1,5 @@
 export default function Home() {
-  return <div>test</div>;
+  const test = "test";
+
+  return <div>{test}</div>;
 }
