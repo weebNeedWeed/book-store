@@ -40,6 +40,7 @@ const config = {
     "prettier/babel",
     "prettier",
   ],
+  ignorePatterns: ["./styles", "*.css"],
 };
 
 module.exports = config;
